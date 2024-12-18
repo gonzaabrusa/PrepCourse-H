@@ -1,2 +1,1 @@
-# PrepCourse-H
-Este es un repositorio de prueba
+este proyecto es una prueba  de compo crear un repositorio y clonarlo desde git hub hacia mi escritorio local 
